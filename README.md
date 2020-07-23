@@ -2,7 +2,7 @@
 
 My name is [Farhan Yuda Pahlevi](http://www.pahlevikun.id/), just call me Farhan or Levi.
 
-<img src="https://github-readme-stats.vercel.app/api?username=pahlevikun&&show_icons=true" width="100%>
+![github stats](https://github-readme-stats.vercel.app/api?username=pahlevikun&&show_icons=true)
 
 
 ### Feel free to reach me out via :
