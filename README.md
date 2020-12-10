@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Farhan Yuda Pahlevi, just call me Farhan or Levi. Currently working at Gojek as Android Engineer for GoBiz app. I'm always looking for something new and adopt it for maximizing development efficiency and produce an innovative solution. More information about me please visit my LinkedIn profile or my personal site. I'm main code mainly on Native Android Development and very experienced on it, other than that, I can code in other mobile development stack, backend stack, and also some DevOps automation.
+My name is Farhan Yuda Pahlevi, just call me Farhan or Levi. Currently working at Gojek as Android Engineer for GoBiz app. I'm always looking for something new and adopt it for maximizing development efficiency & produce an innovative solution. More information about me please visit my [LinkedIn](https://www.linkedin.com/in/pahlevikun/) profile or my [personal site](http://www.pahlevikun.id/). I'm code mainly on Native Android Development and very experienced on it, other than that, I can code in other Mobile Development stack, Backend stack, and also some DevOps automation.
 
 ![Pahlevikun's github stats](https://github-readme-stats.vercel.app/api?username=pahlevikun&show_icons=true&line_height=21&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pahlevikun&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
 
@@ -14,4 +14,4 @@ I'm always open and looking for any collaboration or founding startup, feel free
 - Email : [pahlevi.kun@gmail.com](mailto:pahlevi.kun@gmail.com)
 - LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
 - Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
-- Personal Site : [Site built using Flutter](http://www.pahlevikun.id/)
+- Personal Site : [Web app built using Flutter](http://www.pahlevikun.id/)
