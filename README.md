@@ -12,7 +12,7 @@ My name is Farhan Yuda Pahlevi, just call me Farhan or Levi. Currently working a
 
 ## Get in Touch
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
-- Email : [pahlevi.kun@gmail.com](mailto:pahlevi.kun@gmail.com)
+- Email : [farhan.y.pahlevi@gmail.com](mailto:farhan.y.pahlevi@gmail.com)
 - LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
 - Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
 - Personal Site : [Web app built using Flutter](http://www.pahlevikun.id/)
