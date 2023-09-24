@@ -16,9 +16,11 @@ At GoTo HoldCo (Gojek), our team is dedicated to developing and enhancing the me
 ## Get in Touch
 
 For more information about me please visit my [LinkedIn](https://www.linkedin.com/in/pahlevikun/) profile or my [personal site](http://www.pahlevikun.id/). Don't hesitate to talk with me, if you would like to discuss further, have any inquiries or even need my personal number to talk more, please contact me via LinkedIn or [email](mailto:farhan.y.pahlevi@gmail.com). I am always open to connecting and discussing exciting opportunities or any collaboration in Software Engineering and Startup, you can also contact me via:
+
 - Email : [farhan.y.pahlevi@gmail.com](mailto:farhan.y.pahlevi@gmail.com)
 - LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
 - X : [Farhan Yuda Pahlevi](https://www.twitter.com/pahlevikun/)
 - Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
 - Personal Site : [Web app built using Flutter](http://www.pahlevikun.id/)
+
 Look forward to connecting with you!
