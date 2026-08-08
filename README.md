@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=88c0d0&height=130&section=header&text=Farhan%20Yuda%20Pahlevi&fontSize=42&fontColor=2e3440&animation=twinkling" alt="Farhan Yuda Pahlevi" width="100%" />
 
-**Senior Software Engineer @ GoTo Group (Gojek)** · Mobile & Backend · Jakarta, Indonesia
+**Senior Software Engineer @ GoTo Group (Gojek)** · Mobile Web Backend · Jakarta, Indonesia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;Open+to+senior+roles+%26+collaboration&font=Fira+Code&size=18&color=88C0D0&center=true&width=600&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Owner+of+Levidev+Studio;Open+to+senior+roles+%26+collaboration&font=Fira+Code&size=18&color=88C0D0&center=true&width=650&height=50)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pahlevikun.id-88C0D0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pahlevikun.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pahlevikun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pahlevikun/)
@@ -19,8 +19,7 @@ Hi! call me **Farhan** or **Levi** 👋. I'm a versatile software engineer with 
 
 I design and ship **high-performance, scalable, fault-tolerant** systems end to end — from Kotlin & Flutter mobile apps to Go, Ruby, Elixir, and TypeScript microservices. I also lead **L4–L5 incident response**, drive **zero-downtime migrations**, and mentor engineers through **Bangkit**, **Praktisi Mengajar**, and **GIGIH**.
 
-- 🏆 **1st Place** — [GoTo Hackathon 2024](https://pahlevikun.id/) (cross-region team, production impact)
-- 🏢 **Owner** — [Levidev Studio](https://pahlevikun.id/) — digital agency & software development
+- 🏆 **1st Place** — [GoTo Hackathon 2024](https://www.instagram.com/p/DEM6Wu7Pil1/) (cross-region team, production impact)
 - 📜 **Google Certified** Associate Android Developer (Udacity Nanodegree, 2017)
 - 🎓 **B.E.** Informatics Engineering — Gunadarma University
 
