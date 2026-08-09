@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=88c0d0&height=130&section=header&text=Farhan%20Yuda%20Pahlevi&fontSize=42&fontColor=2e3440&animation=twinkling" alt="Farhan Yuda Pahlevi" width="100%" />
 
-**Senior Software Engineer @ GoTo Group (Gojek)** · Mobile & Backend · Jakarta, Indonesia
+**Senior Software Engineer @ GoTo Group (Gojek)** · Mobile Web Backend · Jakarta, Indonesia
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Owner+of+Levidev+Studio;Open+to+senior+roles+%26+collaboration&font=Fira+Code&size=18&color=88C0D0&center=true&width=650&height=50)](https://git.io/typing-svg)
 
@@ -10,12 +10,11 @@
 
 <img align="right" src="./assets/avatar.png" width="180" height="180" alt="Farhan Yuda Pahlevi" />
 
-Call me **Farhan** or **Levi**. I'm a versatile software engineer with **10+ years** in tech and **8+ years at Gojek / GoTo Group**, where I've grown from Android engineer to **fullstack engineer** owning merchant identity, authentication, and platform infrastructure for **GoFood Merchant**.
+Hi! call me **Farhan** or **Levi** 👋. I'm a versatile software engineer with **10+ years** in tech and **8+ years at Gojek / GoTo Group**, where I've grown from Android engineer to **fullstack engineer** owning merchant identity, authentication, and platform infrastructure for **GoFood Merchant**.
 
 I design and ship **high-performance, scalable, fault-tolerant** systems end to end — from Kotlin & Flutter mobile apps to Go, Ruby, Elixir, and TypeScript microservices. I also lead **L4–L5 incident response**, drive **zero-downtime migrations**, and mentor engineers through **Bangkit**, **Praktisi Mengajar**, and **GIGIH**.
 
 - 🏆 **1st Place** — [GoTo Hackathon 2024](https://pahlevikun.id/) (cross-region team, production impact)
-- 🏢 **Owner** — [Levidev Studio](https://pahlevikun.id/) — digital agency & software development
 - 📜 **Google Certified** Associate Android Developer (Udacity Nanodegree, 2017)
 - 🎓 **B.E.** Informatics Engineering — Gunadarma University
 
@@ -62,62 +61,28 @@ Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & men
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
+My name is Farhan Yuda Pahlevi, just call me Farhan or Levi. I have been working at Gojek since 2018 as a Senior Android Engineer while also expanding my role as a Backend Engineer, and my journey in the technology industry began in 2013. I have a proven track record of delivering innovative and driving social impactful solutions through application development. I hold a Bachelor of Engineering (BE) degree in Informatics Engineering from Gunadarma University. In 2017, I earned the Google Certified Associate Android Developer certification with a Nanodegree scholarship from Udacity.
 
-## Featured Projects
+At GoTo HoldCo (Gojek), our team is dedicated to developing and enhancing the merchant experience across all accounts. My responsibilities include managing user accounts, implementing multiple authentication mechanisms, and much more. My passion for innovation drives me to continuously learn and implement new technologies. I strive to maximize development efficiency and create user-friendly applications that make a positive social impact. With a strong background in both frontend and backend development, I excel in designing and building high-performance, scalable, and fault-tolerant applications across various industries. I thrive in remote, on-site, and hybrid work environments that able to adjust myself collaborating worldwide. This global perspective allows me to broaden my horizon to tackle complex problems that demand creative thinking.
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**DroidCrypt**](https://github.com/pahlevikun/DroidCrypt) | Android library for AES encryption with SharedPreferences support | Kotlin |
-| [**Flutter-Native-Bridging**](https://github.com/pahlevikun/Flutter-Native-Bridging) | Native communication between Flutter and platform code via Method Channels | Dart · Android · iOS |
-| [**Github-Read-Medium**](https://github.com/pahlevikun/Github-Read-Medium) | Display latest Medium articles as cards on your GitHub profile README | JavaScript |
-| [**Basic-GO-Restfull-API**](https://github.com/pahlevikun/Basic-GO-Restfull-API) | REST API starter with Gin and GORM | Go |
-| [**Wifiku**](https://github.com/pahlevikun/Wifiku) | Lightweight Android library for network info | Java |
+![Pahlevikun's github stats](https://github-readme-stats.vercel.app/api?username=pahlevikun&show_icons=true&line_height=21&show_icons=g&theme=nord&rank_icon=github&include_all_commits=true&hide=contribs,issues)
+<span style="display:inline-block; width: 10px;"></span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pahlevikun&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
 
-> See the full list on my [portfolio](https://pahlevikun.id/) — 50+ projects across Android, iOS, Flutter, and backend.
+![Pahlevikun's trophy](https://github-profile-trophy.vercel.app/?username=pahlevikun&theme=nord&column=7&margin-w=10&margin-h=15)
 
----
+### Web & Infra
 
-## Writing
 
-![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=pahlevikun&limit=6&theme=nord)
+## Get in Touch
 
----
+For more information about me please visit my [LinkedIn](https://www.linkedin.com/in/pahlevikun/) profile or my [personal site](http://www.pahlevikun.id/). Don't hesitate to talk with me, if you would like to discuss further, have any inquiries or even need my personal number to talk more, please contact me via LinkedIn or [email](mailto:farhan.y.pahlevi@gmail.com). I am always open to connecting and discussing exciting opportunities or any collaboration in Software Engineering and Startup, you can also contact me via:
 
-## GitHub Stats
+- Email : [farhan.y.pahlevi@gmail.com](mailto:farhan.y.pahlevi@gmail.com)
+- LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
+- X : [Farhan Yuda Pahlevi](https://www.twitter.com/pahlevikun/)
+- Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
+- Personal Site : [Web app built using Flutter](http://www.pahlevikun.id/)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img width="415" height="195" src="https://github-readme-stats-eight-mu.vercel.app/api?username=pahlevikun&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&rank_icon=github&hide=issues&card_width=415" alt="GitHub Stats">
-    </td>
-    <td valign="top" width="50%">
-      <img width="415" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pahlevikun&theme=nord_dark" alt="Profile Details">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <img width="415" height="195" src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=pahlevikun&layout=compact&theme=nord&hide_border=true&langs_count=8&card_width=415" alt="Top Languages">
-    </td>
-    <td valign="top" width="50%">
-      <img width="415" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pahlevikun&theme=nord_dark" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
----
-
-## Connect
-
-I'm open to conversations about **engineering challenges**, **collaboration**, and **senior roles**. Reach out anytime.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Yuda_Pahlevi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pahlevikun/)
-[![X](https://img.shields.io/badge/X-@pahlevikun-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pahlevikun)
-[![Facebook](https://img.shields.io/badge/Facebook-Pahlevikun-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Pahlevikun/)
-[![Medium](https://img.shields.io/badge/Medium-@pahlevikun-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pahlevikun)
-[![Portfolio](https://img.shields.io/badge/Website-pahlevikun.id-88C0D0?style=flat-square&logo=googlechrome&logoColor=white)](https://pahlevikun.id/)
-[![Email](https://img.shields.io/badge/Email-farhan.y.pahlevi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhan.y.pahlevi@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=pahlevikun&label=Profile%20views&color=88c0d0&style=for-the-badge)
-
----
+Look forward to connecting with you!
