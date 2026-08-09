@@ -2,7 +2,7 @@
 
 **Senior Software Engineer @ GoTo Group (Gojek)** · Mobile Web Backend · Jakarta, Indonesia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Owner+of+Levidev+Studio;Open+to+senior+roles+%26+collaboration&font=Fira+Code&size=18&color=88C0D0&center=true&width=650&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=Fira+Code&size=18&color=88C0D0&center=true&width=650&height=50)](https://git.io/typing-svg)
 
 ---
 
