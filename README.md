@@ -30,7 +30,7 @@ Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & men
 
 </details>
 
-<br clear="right"/>
+ ![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=pahlevikun&limit=6&theme=nord)
 
 # Tech Stack
 
@@ -80,7 +80,6 @@ Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & men
     </td>
   </tr>
 </table>
-
 
 # Get in Touch
 
