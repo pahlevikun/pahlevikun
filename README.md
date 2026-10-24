@@ -3,7 +3,12 @@
 
 **Senior Software Engineer @ GoTo Group (Gojek)** · Mobile Web Backend · Jakarta, Indonesia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=Fira+Code&size=18&color=88C0D0&center=true&width=650&height=50)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;Web:+Next.js+%C2%B7+NestJS+%C2%B7+Nuxt.js+%C2%B7+Vue+%C2%B7+Tailwind;Data:+Postgres+%C2%B7+MongoDB+%C2%B7+Elasticsearch+%C2%B7+BigQuery;CI/CD:+GitHub+Actions+%C2%B7+GitLab+CI;Infra:+AWS+%C2%B7+Tencent+Lighthouse+%C2%B7+Docker+%C2%B7+K8s;AI:+Cursor+%C2%B7+Codex+%C2%B7+Claude+%C2%B7+Trae+%C2%B7+Copilot+%C2%B7+Hermes+%C2%B7+OpenClaw;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=JetBrains+Mono&weight=500&size=19&color=EBCB8B&center=true&width=700&height=52" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;Web:+Next.js+%C2%B7+NestJS+%C2%B7+Nuxt.js+%C2%B7+Vue+%C2%B7+Tailwind;Data:+Postgres+%C2%B7+MongoDB+%C2%B7+Elasticsearch+%C2%B7+BigQuery;CI/CD:+GitHub+Actions+%C2%B7+GitLab+CI;Infra:+AWS+%C2%B7+Tencent+Lighthouse+%C2%B7+Docker+%C2%B7+K8s;AI:+Cursor+%C2%B7+Codex+%C2%B7+Claude+%C2%B7+Trae+%C2%B7+Copilot+%C2%B7+Hermes+%C2%B7+OpenClaw;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=JetBrains+Mono&weight=500&size=19&color=5E81AC&center=true&width=700&height=52" alt="Typing intro" />
+  </picture>
+</a>
 
 </div>
 
@@ -11,26 +16,48 @@
 
 <img align="right" src="./assets/avatar.png" width="180" height="180" alt="Farhan Yuda Pahlevi" />
 
-Hi! call me **Farhan** or **Levi** 👋. I'm a versatile software engineer with **10+ years** in tech and **8+ years at Gojek / GoTo Group**, where I've grown from Android engineer to **fullstack engineer** owning merchant identity, authentication, and platform infrastructure for **GoFood Merchant**.
+Hey, I'm **Farhan** (or **Levi**) 👋. I've been in tech for **10+ years**, and at **Gojek / GoTo Group** for **8+ years**. I started on Android and now work fullstack on **GoFood Merchant**, mostly merchant identity, auth, and platform infra.
 
-I design and ship **high-performance, scalable, fault-tolerant** systems end to end — from Kotlin & Flutter mobile apps to Go, Ruby, Elixir, and TypeScript microservices. I also lead **L4–L5 incident response**, drive **zero-downtime migrations**, and mentor engineers through **Bangkit**, **Praktisi Mengajar**, and **GIGIH**.
+I build end to end: Kotlin and Flutter on mobile, Go, Ruby, Elixir, and TypeScript on the backend. I also handle **L4-L5 incidents**, zero-downtime migrations, and mentor through **Bangkit**, **Praktisi Mengajar**, and **GIGIH**.
 
-- 🏆 **1st Place** — [GoTo Hackathon 2024](https://pahlevikun.id/) (cross-region team, production impact)
+- 🏆 **1st place**, [GoTo Hackathon 2024](https://pahlevikun.id/) (cross-region team, shipped to prod)
 - 📜 **Google Certified** Associate Android Developer (Udacity Nanodegree, 2017)
-- 🎓 **B.E.** Informatics Engineering — Gunadarma University
+- 🎓 **B.E.** Informatics Engineering, Gunadarma University
 
 <details>
 <summary><strong>More about my journey</strong></summary>
 
 <br>
 
-My technology journey started in **2013**. At GoTo, I've worked across **Merchant Platform**, **GoTo Financial**, and **GoFood Merchant** — building login flows, ABAC/RBAC frameworks, SDK integrations, PII encryption, and cloud-native migrations that serve **millions of merchants**.
+My technology journey started in **2013**. At GoTo, I've worked across **Merchant Platform**, **GoTo Financial**, and **GoFood Merchant**, building login flows, ABAC/RBAC frameworks, SDK integrations, PII encryption, and cloud-native migrations that serve **millions of merchants**.
 
 Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & mentor** at Bangkit Academy and a **practitioner lecturer** at STIKI Malang. I write about mobile, backend, and developer tooling on [Medium](https://medium.com/@pahlevikun).
 
+<div align="left">
+
+<strong>Pray more, worry less.</strong>
+<img src="./assets/ori.png" width="200" alt="Pray more, worry less" /><br/>
+
+</div>
+
+When work gets heavy, I try to stay calm through prayer (**berdoa**). Worry less, focus on what I can control. That habit helps me deliver steady quality and keep incidents down, even on high-pressure days.
+
 </details>
 
- ![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=pahlevikun&limit=6&theme=nord)
+<br clear="right"/>
+
+### Writing
+
+<p id="medium-writing">
+  <img
+    src="https://github-read-medium.vercel.app/latest?username=pahlevikun&limit=6&theme=nord"
+    alt="Pahlevikun's blog"
+    onload="document.getElementById('medium-fallback').style.display='none';"
+    onerror="this.remove();"
+  />
+</p>
+
+<p id="medium-fallback">More on <a href="https://medium.com/@pahlevikun">Medium</a>.</p>
 
 # Tech Stack
 
@@ -51,12 +78,46 @@ Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & men
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Web & Infra
+### Web
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Data & Search
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MaxCompute](https://img.shields.io/badge/MaxCompute-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+### AI & Agentic
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-00C8FF?style=for-the-badge&logo=bytedance&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=for-the-badge)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-EF4444?style=for-the-badge)
+
+### CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Infra
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tencent Lighthouse](https://img.shields.io/badge/Tencent_Lighthouse-00A4FF?style=for-the-badge&logo=tencentqq&logoColor=white)
+![VM Hosting](https://img.shields.io/badge/VM_Hosting-64748B?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -83,19 +144,18 @@ Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & men
 
 # Get in Touch
 
-For more information about me please visit my [LinkedIn](https://www.linkedin.com/in/pahlevikun/) profile or my [personal site](http://www.pahlevikun.id/). Don't hesitate to talk with me, if you would like to discuss further, have any inquiries or even need my personal number to talk more, please contact me via LinkedIn or [email](mailto:farhan.y.pahlevi@gmail.com). I am always open to connecting and discussing exciting opportunities or any collaboration in Software Engineering and Startup, you can also contact me via:
+Happy to chat about engineering, collaboration, or senior roles. LinkedIn or email is easiest.
 
-- Email : [farhan.y.pahlevi@gmail.com](mailto:farhan.y.pahlevi@gmail.com)
-- LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
-- X : [Farhan Yuda Pahlevi](https://www.twitter.com/pahlevikun/)
-- Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
-- Personal Site : [Farhan Yuda Pahlevi](http://www.pahlevikun.id/)
-
+- Email: [farhan.y.pahlevi@gmail.com](mailto:farhan.y.pahlevi@gmail.com)
+- LinkedIn: [Farhan Yuda Pahlevi](https://www.linkedin.com/in/pahlevikun/)
+- X: [Farhan Yuda Pahlevi](https://x.com/pahlevikun)
+- Facebook: [Farhan Yuda Pahlevi](https://www.facebook.com/Pahlevikun/)
+- Site: [pahlevikun.id](https://pahlevikun.id/)
 
 ---
 
 <div align="center">
 
-*Look forward to connecting with you!*
+Say hi anytime.
 
 </div>
