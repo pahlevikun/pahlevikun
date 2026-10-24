@@ -5,8 +5,8 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;Web:+Next.js+%C2%B7+NestJS+%C2%B7+Nuxt.js+%C2%B7+Vue+%C2%B7+Tailwind;Data:+Postgres+%C2%B7+MongoDB+%C2%B7+Elasticsearch+%C2%B7+BigQuery;CI/CD:+GitHub+Actions+%C2%B7+GitLab+CI;Infra:+AWS+%C2%B7+Tencent+Lighthouse+%C2%B7+Docker+%C2%B7+K8s;AI:+Cursor+%C2%B7+Codex+%C2%B7+Claude+%C2%B7+Trae+%C2%B7+Copilot+%C2%B7+Hermes+%C2%B7+OpenClaw;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=JetBrains+Mono&weight=500&size=19&color=EBCB8B&center=true&width=700&height=52" />
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript;Web:+Next.js+%C2%B7+NestJS+%C2%B7+Nuxt.js+%C2%B7+Vue+%C2%B7+Tailwind;Data:+Postgres+%C2%B7+MongoDB+%C2%B7+Elasticsearch+%C2%B7+BigQuery;CI/CD:+GitHub+Actions+%C2%B7+GitLab+CI;Infra:+AWS+%C2%B7+Tencent+Lighthouse+%C2%B7+Docker+%C2%B7+K8s;AI:+Cursor+%C2%B7+Codex+%C2%B7+Claude+%C2%B7+Trae+%C2%B7+Copilot+%C2%B7+Hermes+%C2%B7+OpenClaw;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=JetBrains+Mono&weight=500&size=19&color=5E81AC&center=true&width=700&height=52" alt="Typing intro" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript+%C2%B7+Rust;Web:+Next.js+%C2%B7+Deno+%C2%B7+NestJS+%C2%B7+Nuxt.js+%C2%B7+Vue+%C2%B7+Tailwind;Data:+Postgres+%C2%B7+MongoDB+%C2%B7+Elasticsearch+%C2%B7+BigQuery;CI/CD:+GitHub+Actions+%C2%B7+GitLab+CI;Infra:+AWS+%C2%B7+Tencent+Lighthouse+%C2%B7+Docker+%C2%B7+K8s;AI:+Cursor+%C2%B7+Codex+%C2%B7+Claude+%C2%B7+Trae+%C2%B7+Copilot+%C2%B7+Hermes+%C2%B7+OpenClaw;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=JetBrains+Mono&weight=500&size=19&color=88C0D0&center=true&width=700&height=52" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+systems+for+millions+of+merchants;I+own+merchant+identity+%26+auth+at+GoFood+Merchant;Mobile:+Android+%C2%B7+iOS+%C2%B7+Flutter+%C2%B7+KMP;Backend:+Go+%C2%B7+Ruby+%C2%B7+Elixir+%C2%B7+TypeScript+%C2%B7+Rust;Web:+Next.js+%C2%B7+Deno+%C2%B7+NestJS+%C2%B7+Nuxt.js+%C2%B7+Vue+%C2%B7+Tailwind;Data:+Postgres+%C2%B7+MongoDB+%C2%B7+Elasticsearch+%C2%B7+BigQuery;CI/CD:+GitHub+Actions+%C2%B7+GitLab+CI;Infra:+AWS+%C2%B7+Tencent+Lighthouse+%C2%B7+Docker+%C2%B7+K8s;AI:+Cursor+%C2%B7+Codex+%C2%B7+Claude+%C2%B7+Trae+%C2%B7+Copilot+%C2%B7+Hermes+%C2%B7+OpenClaw;1st+place+%C2%B7+GoTo+Hackathon+2024;Mentor+at+Bangkit+%C2%B7+Praktisi+Mengajar+%C2%B7+GIGIH;Open+to+senior+roles+%26+collaboration&font=JetBrains+Mono&weight=500&size=19&color=88C0D0&center=true&width=700&height=52" alt="Typing intro" />
   </picture>
 </a>
 
@@ -18,7 +18,7 @@
 
 Hey, I'm **Farhan** (or **Levi**) 👋. I've been in tech for **10+ years**, and at **Gojek / GoTo Group** for **8+ years**. I started on Android and now work fullstack on **GoFood Merchant**, mostly merchant identity, auth, and platform infra.
 
-I build end to end: Kotlin and Flutter on mobile, Go, Ruby, Elixir, and TypeScript on the backend. I also handle **L4-L5 incidents**, zero-downtime migrations, and mentor through **Bangkit**, **Praktisi Mengajar**, and **GIGIH**.
+I build end to end: Kotlin and Flutter on mobile, Go, Ruby, Elixir, TypeScript, and Rust on the backend (plus **Deno** for local tooling). I also handle **L4-L5 incidents**, zero-downtime migrations, and mentor through **Bangkit**, **Praktisi Mengajar**, and **GIGIH**.
 
 - 🏆 **1st place**, [GoTo Hackathon 2024](https://pahlevikun.id/) (cross-region team, shipped to prod)
 - 📜 **Google Certified** Associate Android Developer (Udacity Nanodegree, 2017)
@@ -33,18 +33,18 @@ My technology journey started in **2013**. At GoTo, I've worked across **Merchan
 
 Beyond work, I contribute to Indonesia's tech ecosystem as an **instructor & mentor** at Bangkit Academy and a **practitioner lecturer** at STIKI Malang. I write about mobile, backend, and developer tooling on [Medium](https://medium.com/@pahlevikun).
 
-<div align="left">
-
-<strong>Pray more, worry less.</strong>
-<img src="./assets/ori.png" width="200" alt="Pray more, worry less" /><br/>
-
-</div>
-
-When work gets heavy, I try to stay calm through prayer (**berdoa**). Worry less, focus on what I can control. That habit helps me deliver steady quality and keep incidents down, even on high-pressure days.
-
 </details>
 
-<br clear="right"/>
+<strong><em>Pray more, worry less.</em></strong><br/>
+<img align="left" src="./assets/ori.png" width="160" alt="Sajadah with pray more worry less quote" style="border-radius: 32px; margin-right: 1.25em;" />
+
+When work gets heavy, I try to stay calm through prayer. It helps me manage the load, stay focused on what matters, and worry less about what I cannot control.
+
+That mindset helps on tough launches and incident response. I aim for the next right step, not the noise around it. Over time it has helped me deliver steady quality and keep incidents as low as I can.
+
+> **_"Pray more, worry less."_**  
+
+<br clear="left"/>
 
 ### Writing
 
@@ -75,6 +75,7 @@ When work gets heavy, I try to stay calm through prayer (**berdoa**). Worry less
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -86,6 +87,7 @@ When work gets heavy, I try to stay calm through prayer (**berdoa**). Worry less
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
 ### Data & Search
 
